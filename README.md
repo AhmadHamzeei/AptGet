@@ -1,4 +1,9 @@
 AptGet
 ======
 
-Simple software list updater written in java
+Simple Ubuntu software list updater written in java.
+
+Screenshot
+==========
+
+![screenshot](AptGet.png)
